@@ -184,6 +184,7 @@ describe("Lottery", function () {
     });
 });
 ```
-📢 Connect with Me
+---
+## 📢 Connect with Me
 
 💬 Let's discuss blockchain & Web3! Connect with me on LinkedIn or Twitter.
